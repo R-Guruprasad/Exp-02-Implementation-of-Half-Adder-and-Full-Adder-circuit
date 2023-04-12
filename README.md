@@ -69,6 +69,7 @@ endmodule
 
 ### WAVEFORMS
 
+<<<<<<< HEAD
 ![](/ha2.png)
 
 ![](/fa2.png)
@@ -76,10 +77,20 @@ endmodule
 ## TRUTH TABLE
 ![](/HATT.png)
 ![](/FATT.png)
+=======
+![](./ha2.png)
+
+![](./fa2.png)
+
+## TRUTH TABLE
+![](./HATT.png)
+![](./FATT.png)
+>>>>>>> fd397a53b6cd3553b0d773b1764a1cec333cfd7d
 
 
 ### Result:
   Therefore,half adder and full adder is verified  
+<<<<<<< HEAD
 =======
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
@@ -163,3 +174,5 @@ endmodule
 ### Result:
   Therefore,half adder and full adder is verified  
 >>>>>>> f72ffbe8e68bf4188d530aa6bd2e95c10f89127e
+=======
+>>>>>>> fd397a53b6cd3553b0d773b1764a1cec333cfd7d
