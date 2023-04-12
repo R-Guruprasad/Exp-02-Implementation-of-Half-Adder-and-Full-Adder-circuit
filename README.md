@@ -68,13 +68,13 @@ endmodule
 
 ### WAVEFORMS
 
-![](ha2.png)
+![](./ha2.png)
 
-![](fa2.png)
+![](./fa2.png)
 
 ## TRUTH TABLE
-![](HATT.png)
-![](FATT.png)
+![](./HATT.png)
+![](./FATT.png)
 
 
 ### Result:
